@@ -1,0 +1,20 @@
+{
+  "pro": {
+    "version": "1.0.0",
+    "release_date": "2026-04-21",
+    "download_url": "https://github.com/Hichemorca/trading-psych-releases/raw/main/TradingPsychLab_Pro.exe",
+    "changelog": "النسخة الأولى المستقرة - 9 كواشف سلوكية + تقارير"
+  },
+  "elite": {
+    "version": "1.0.0",
+    "release_date": "2026-04-21",
+    "download_url": "https://github.com/Hichemorca/trading-psych-releases/raw/main/TradingPsychLab_Elite.exe",
+    "changelog": "النسخة الأولى المستقرة - Pro + غرفة التداول الصامتة + Circuit Breaker"
+  },
+  "ultimate": {
+    "version": "1.0.0",
+    "release_date": "2026-04-21",
+    "download_url": "https://github.com/Hichemorca/trading-psych-releases/raw/main/TradingPsychLab_Ultimate.exe",
+    "changelog": "النسخة الأولى المستقرة - Elite + AI Predictor + تحليل الأنماط"
+  }
+}
