@@ -1,0 +1,13 @@
+# TradingPsych Lab — v2.0.0 — Checksums
+# Generated: 2026-04-25
+# Algorithm: SHA256
+
+# --- latest ---
+5c1307d9332c9a37e869416345276486cbdd634caca2647be76f22ddbcf1071e  releases/windows/latest/TradingPsychLab_Pro.exe
+af4a38169b3e5ed93195d19fec9caeffd51dfb7bdd50d1eb757f3381af8eaa42  releases/windows/latest/TradingPsychLab_Elite.exe
+dbe3992f2605990599b6a3f3df2af7275cafff71f994b5453ab5b7c126161db4  releases/windows/latest/TradingPsychLab_Ultimate.exe
+
+# --- v2.0.0 ---
+5c1307d9332c9a37e869416345276486cbdd634caca2647be76f22ddbcf1071e  releases/windows/v2.0.0/TradingPsychLab_Pro_v2.0.0.exe
+af4a38169b3e5ed93195d19fec9caeffd51dfb7bdd50d1eb757f3381af8eaa42  releases/windows/v2.0.0/TradingPsychLab_Elite_v2.0.0.exe
+dbe3992f2605990599b6a3f3df2af7275cafff71f994b5453ab5b7c126161db4  releases/windows/v2.0.0/TradingPsychLab_Ultimate_v2.0.0.exe
